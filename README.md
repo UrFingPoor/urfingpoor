@@ -28,7 +28,6 @@
     </div>
     <div align=center>
         <h1>Contribution Activity</h1>
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
         <img src="https://github-readme-stats.vercel.app/api?username=BarcodeBimbo&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=false&theme=radical" alt="GitHub Stats" height="200" />
         <br>
     </div>
